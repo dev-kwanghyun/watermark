@@ -1,3 +1,4 @@
+// 워터마크 클래스
 class WaterMark {
   private parentTag: HTMLElement;
   private text: string;
